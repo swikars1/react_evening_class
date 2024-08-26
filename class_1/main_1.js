@@ -103,7 +103,7 @@ const { name, age, email } = user;
 
 // destructuring an array
 
-const jobs = ["manager", "developer", "tester", { name: "swikar", age: 12 }];
+const jobs = ["manager", "developer", "tester", { name: "swikar", age: 22 }];
 
 // const job1  = jobs[0]
 // const job2 = jobs[1];
