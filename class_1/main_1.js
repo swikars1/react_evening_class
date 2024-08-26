@@ -99,7 +99,7 @@ user.jobs[2].company;
 // const age = user.age;
 // const email = user.email;
 
-const { name, age, email asdas} = user;
+const { name, age, email } = user;
 
 // destructuring an array
 
