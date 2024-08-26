@@ -67,10 +67,10 @@ const user = {
   name: "ram",
   email: "ram@gmail",
   age: 12,
+  sdf: 12,
   jobs: [
     { name: "manager", hrs: 5 },
     { name: "developer", hrs: 10, location: "asd", activites: ["bsd", "sdc"] },
-    { name: "designer", hrs: 2, location: "Asd" },
   ],
 };
 
